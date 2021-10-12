@@ -32,19 +32,12 @@ A full-duplex link can only connect two devices, so many such links are required
           <p>Received message from the client:hi</p>
           <p>how are u</p>
           <p>Data sent…</p>
-          <p>Enter the input data:</p>
-          <p>Received message from the client:i am fine</p>
 <p>* SAMPLE OUTPUT:</p>
-        <p>Server:</p>
-          <p>(Host Name:Root1)</p>
-          <p>[root@localhost 4ita33]# vi fserver.c</p>
-          <p>[root@localhost 4ita33]# cc fserver.c</p>
-          <p>[root@localhost 4ita33]# ./a.out</p>
-          <p>Server is running.......</p>
-          <p>Enter the input data:</p>
-          <p>Received message from the client:hi</p>
-          <p>how are u</p>
+        <p>Client:</p>
+          <p>(Host Name:Root2)</p>
+          <p>[root@localhost 4ita33]# vi fclient.c</p>
+          <p>[root@localhost 4ita33]# cc fclient.c</p>
+          <p>[root@localhost 4ita33]# ./a.out 127.0.0.1</p>
+          <p>Enter the input data: hi</p>
           <p>Data sent…</p>
-          <p>Enter the input data:</p>
-          <p>Received message from the client:i am fine</p>
           
