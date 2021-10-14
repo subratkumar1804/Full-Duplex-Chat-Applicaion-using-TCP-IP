@@ -42,5 +42,5 @@ A full-duplex link can only connect two devices, so many such links are required
           <p>Enter the input data: hi</p>
           <p>Data sent…</p>
           
-<h4>INFERENCE :</h4> 
+<h4>INFERENCE ::</h4> 
 <p>*Thus the chat application full duplex communication is established by sending the request from the client to the server, server gets the message and gives response to the client and prints it.</p>
