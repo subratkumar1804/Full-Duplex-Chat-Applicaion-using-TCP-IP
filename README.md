@@ -12,7 +12,7 @@ Server. The Client and Server can send as well as receive messages at the same t
 Server exchange messages.
 
 
-<h4>DESCRIPTION :</h4>
+<h4>DESCRIPTIO :</h4>
 In full-duplex operation, a connection between two devices is capable of sending data in both directions simultaneously. 
 Full-duplex channels can be constructed either as a pair of simplex links (as described above) or using one channel designed to permit bidirectional simultaneous transmissions. 
 A full-duplex link can only connect two devices, so many such links are required if multiple devices are to be connected together.
