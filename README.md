@@ -1,4 +1,4 @@
-# Full-Duplex-Chat-Applicaion-using-TCP-I
+# Full-Duplex-Chat-Applicaion-using-TCP-IP
 
 <h4>REQUIREMENTS :</h4>
 There are two hosts, Client and Server. Both the Client and the Server exchange message
